@@ -1,2 +1,1 @@
-# helloword
-just a repository
+第一个github
