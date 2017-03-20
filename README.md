@@ -1,3 +1,1 @@
-# helloword
-just a repository
-     第一给githuv
+第一个github
